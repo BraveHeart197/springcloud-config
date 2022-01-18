@@ -1,1 +1,2 @@
-key value
+config:
+  info: "master branch springcloud-config/config-dev.yml versoin=1"
